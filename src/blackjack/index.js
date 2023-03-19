@@ -1,4 +1,3 @@
-import _ from "underscore";
 import {accumulatePoints, computerTurn, createCard, createDeck, orderCard} from "./usecases/index.js";
 
 /**
