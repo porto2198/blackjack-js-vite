@@ -24,7 +24,7 @@ const divCardsPlayers = document.querySelectorAll('.divCards'),
 const initGame = (numberPlayers = 2) => {
     deck = createDeck(types, specials);
 
-    console.log(deck);
+    // console.log(deck);
 
     pointsPlayers = [];
 
